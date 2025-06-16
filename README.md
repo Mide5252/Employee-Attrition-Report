@@ -18,12 +18,19 @@ The major visuals used in the analysis of the data were; card visuals, pie chat,
 
 During the analysis many issues were loooked out such as;
 1. Total number of employees which was pegged at 1470
-2. The total numbers of employees that are available current and the ones that have left were 1233 and 237 respectively
-3. The analysis also showed that R and D department has been the one where employees have left more this is despite the fact that the department produces the highest income generated and also had the highest number of trainings in the past years.
-4. The data also illustrated that employees who are within the generation Z has been the one leaving the organization more.
-5. The data also reviewed that most attrition has come from employeee who have not had enough travel experiences.
+
+3. The total numbers of employees that are available current and the ones that have left were 1233 and 237 respectively
+4. The analysis also showed that R and D department has been the one where employees have left more this is despite the fact that the department produces the highest income generated and also had the highest number of trainings in the past years.
+5. The data also illustrated that employees who are within the generation Z has been the one leaving the organization more.
+6. The data also reviewed that most attrition has come from employeee who have not had enough travel experiences.
 
 A screen short of the analysis has been uploaded for your persual and further clarification. 
+
+(https://github.com/user-attachments/assets/ca2b7883-fdbe-4cc4-bcbd-65d74b9c0001)
+
+(https://github.com/user-attachments/assets/b167d644-8263-4fca-ac93-dd874a26dce0)
+
+(https://github.com/user-attachments/assets/64db4600-d51b-44bd-8cf5-26564e59ce8d)
 
 ### Conclusion 
 
