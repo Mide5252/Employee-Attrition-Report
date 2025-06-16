@@ -7,9 +7,11 @@ To analyze employee attrition within the organization, identify what could be th
 ### Tools Used
 
 Power BI for analysis of data
+
 Excel for data preparation 
 
 ### Dashboard Features
+
 The major visuals used in the analysis of the data were; card visuals, pie chat, bar chat, metrix, clustered bar amongst other meterics
 
 ### Analysis
@@ -23,7 +25,19 @@ During the analysis many issues were loooked out such as;
 
 A screen short of the analysis has been uploaded for your persual and further clarification. 
 
-###Conclusion 
+### Conclusion 
+
+It is crystal clear that majority of employees who has left were those within a specific age, those who do not travel alot, those who are not happy with their monthly income since they have notice that their department generates alot of income, those who are single and men, those who hare Bsc holder. 
+
+### Recommendations
+
+These are the following recommendations I am presently baased on the available finings
+
+1. It is recommended that travel of employees should be on an equal level
+2. It is recommended that the monthly pay of employees who work in R & D and Sales department be increased subsetantially
+3. It is recommended that the organization create an enabling environement for those who will like to further to do so while still working
+4. It is recommended that regular training should be done across all departments.
+5. It is recommended that the organization should also create enabling environment for singles to work and relate with each other
 
 
 
